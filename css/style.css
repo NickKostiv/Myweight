@@ -2657,12 +2657,6 @@ button.swiper-pagination-bullet {
   overflow: hidden;
 }
 
-@media (max-width: 1999.98px) {
-  footer {
-    padding: 40px;
-  }
-}
-
 @media (max-width: 1449.98px) {
   .container {
     max-width: 1200px;
@@ -2677,6 +2671,12 @@ button.swiper-pagination-bullet {
   .img-pepper {
     left: 0%;
     top: 50%;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  footer {
+    padding: 40px;
   }
 }
 
