@@ -1697,10 +1697,8 @@ footer {
   border-radius: 5px;
   width: 100%;
   max-width: 500px;
-  max-height: 670px;
-  /* Встановлюємо максимальну висоту */
-  min-height: 600px;
   overflow-y: auto;
+  min-height: 100%;
   /* Встановлюємо максимальну висоту */
 }
 
