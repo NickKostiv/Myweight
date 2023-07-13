@@ -338,3 +338,11 @@ creditNumberInput.addEventListener('input', (e) => {
 
 
 // modal
+
+ScrollReveal().reveal('.fat', { delay: 200, distance: '80px', origin: 'left', duration: 2000 });
+ScrollReveal().reveal('.normal', { delay: 400, distance: '80px', origin: 'right', duration: 2000 });
+ScrollReveal().reveal('.popup__item1', { delay: 100, distance: '80px', origin: 'top', duration: 1000 });
+ScrollReveal().reveal('.popup__item2', { delay: 200, distance: '80px', origin: 'top', duration: 2000 });
+ScrollReveal().reveal('.popup__item3', { delay: 300, distance: '80px', origin: 'top', duration: 3000 });
+ScrollReveal().reveal('.pluses__item-left', { delay: 500, distance: '80px', origin: 'left', duration: 3000 });
+ScrollReveal().reveal('.pluses__item-right', { delay: 500, distance: '80px', origin: 'right', duration: 3000 });
